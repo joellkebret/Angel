@@ -148,5 +148,3 @@ Notes
     
 *   **Error Handling**: The app gracefully handles invalid inputs and database connection issues, prompting retries where applicable.
     
-
-This README provides everything you need to understand, set up, and run the vCard Manager Project. If you need further assistance or specific Docker setup details, consult your course documentation or let me know!
